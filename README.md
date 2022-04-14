@@ -7,4 +7,4 @@ Pour lancer le code sur visuastudio utiliser PPE Desktop.sln dans la source
 
 Pour voir le QRcode utiliser le ficher QRcode.html
 
-La base de données et hors du zip
+La base de données et hors du zip et ce nomme PPE.sql
